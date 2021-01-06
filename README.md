@@ -1,12 +1,12 @@
-#my-api-server
+# my-api-server
 
-##How to setup a local and remote JSON REST API Server in ten-ish easy steps
+## How to setup a local and remote JSON REST API Server in ten-ish easy steps
 
-###Intro
+### Intro
 
 A few days ago I started working on a fun little project and quickly needed a test Rest API setup. As I have run into this a few times in the last few months I figured I'd come up with a solution once and for all!
 
-####Requirements
+#### Requirements
 
 My requirements were pretty basic, I wanted something that I could quickly drop some json into and that created Rest end points on the fly. I also wanted to be able to run it locally and "online".
 
